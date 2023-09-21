@@ -13,10 +13,16 @@ namespace helloworld.Controllers
             return "Hello World!";
         }
 
-        [HttpGet("/meunome")]
-        public string MeuNome()
+        [HttpGet("/bsmgenerationbrasil")]
+        public string bsmgenerationbrasil()
         {
-            return "Valéria";
+            return "Persistência \n Mentalidade de Crescimento \n Responsabilidade Pessoal \n Orientação ao Futuro \n Orientação ao Detalhe \n Trabalho em Equipe \n Comunicação \n Proatividade";
+        }
+
+        [HttpGet("/objetivos")]
+        public string objetivos()
+        {
+            return "\n Trabalho em Equipe \n Comunicação \n Proatividade";
         }
 
     }

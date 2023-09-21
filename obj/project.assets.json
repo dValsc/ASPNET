@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Valéria\\Desktop\\ASPNET\\HELLOWORLD\\helloworld\\helloworld.csproj",
+      "projectUniqueName": "C:\\Users\\Valéria\\Desktop\\ASPNET\\EXERCICIO01\\helloworld.csproj",
       "projectName": "helloworld",
-      "projectPath": "C:\\Users\\Valéria\\Desktop\\ASPNET\\HELLOWORLD\\helloworld\\helloworld.csproj",
+      "projectPath": "C:\\Users\\Valéria\\Desktop\\ASPNET\\EXERCICIO01\\helloworld.csproj",
       "packagesPath": "C:\\Users\\Valéria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Valéria\\Desktop\\ASPNET\\HELLOWORLD\\helloworld\\obj\\",
+      "outputPath": "C:\\Users\\Valéria\\Desktop\\ASPNET\\EXERCICIO01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Valéria\\AppData\\Roaming\\NuGet\\NuGet.Config",
